@@ -1,7 +1,3 @@
-Here's a professional and complete **README.md** content based on your **LangChain - Chat with Search** Streamlit app, as seen in your screenshot:
-
----
-
 # 🔍 LangChain - Chat with Search
 
 Welcome to **LangChain - Chat with Search**!
