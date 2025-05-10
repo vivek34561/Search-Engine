@@ -68,8 +68,7 @@ langchain-chat-search/
 
 ## 📷 Screenshot
 
-![LangChain Chat UI](C:\Users\vivek gupta\Pictures\Screenshots\Screenshot 2025-05-11 001604.png)
-*(Replace with actual image if needed)*
+![LangChain Chat UI]("C:\Users\vivek gupta\Pictures\Screenshots\Screenshot 2025-05-11 001604.png")
 
 ---
 
