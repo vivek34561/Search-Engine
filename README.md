@@ -3,6 +3,11 @@
 Welcome to **LangChain - Chat with Search**!
 This interactive chatbot leverages the power of **LangChain** and integrates tools like **Wikipedia**, **ArXiv**, and **DuckDuckGo** search to offer real-time query handling and contextual information retrieval.
 
+**Screensort** : 
+![Screenshot 2025-05-17 000340](https://github.com/user-attachments/assets/d22126b8-b2bc-4da5-af29-4022cbfba532)
+![Screenshot 2025-05-17 000359](https://github.com/user-attachments/assets/fdc0b7dd-e153-4f24-a74d-ee4d0a2e9212)
+
+
 ✨ **Live App**: [Streamlit Deployment](https://search-engine-a2gbospht9vvjmvfr3hoqb.streamlit.app/)
 
 ---
